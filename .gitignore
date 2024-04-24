@@ -1,0 +1,11 @@
+UserDefault.xml
+/package/.idea
+/package/__pycache__
+/package/lua
+/package/generate.lua
+
+**/.gradle
+**/.idea
+**/*.cxx
+**/*build
+**/*assets
